@@ -22,9 +22,9 @@ This project presents an end-to-end data analysis of Netflix content using Pytho
 
 ## 📷 Dashboard Preview
 
-![Dashboard 1](images/dashboard1.png)
-![Dashboard 2](images/dashboard2.png)
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 1](images/Dashboard1.png)
+![Dashboard 2](images/Dashboard2.png)
+![Dashboard 3](images/Dashboard3.png)
 
 ## 🚀 Conclusion
 This project demonstrates the ability to clean, analyze, and visualize data effectively, transforming raw data into actionable insights using industry-standard tools.
