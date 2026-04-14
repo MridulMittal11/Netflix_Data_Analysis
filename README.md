@@ -20,8 +20,11 @@ This project presents an end-to-end data analysis of Netflix content using Pytho
 - Drama and international content are among the most popular genres.  
 - The United States produces the highest number of titles.
 
-## 📷 Dashboard
-(Add dashboard screenshot here)
+## 📷 Dashboard Preview
+
+![Dashboard 1](images/dashboard_image1.png)
+![Dashboard 2](images/dashboard_image2.png)
+![Dashboard 3](images/dashboard_image3.png)
 
 ## 🚀 Conclusion
 This project demonstrates the ability to clean, analyze, and visualize data effectively, transforming raw data into actionable insights using industry-standard tools.
